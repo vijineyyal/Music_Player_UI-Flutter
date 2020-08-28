@@ -1,6 +1,8 @@
 # flutter_music_player
 
-A new Flutter application.
+A new Flutter aMusic Player UI.
+
+![Screenshot](iimg1.png)
 
 ## Getting Started
 
