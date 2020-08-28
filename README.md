@@ -2,7 +2,7 @@
 
 A new Flutter aMusic Player UI.
 
-![Screenshot](iimg1.png)
+![Screenshot](iimg1.jpg)
 
 ## Getting Started
 
